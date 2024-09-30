@@ -12,5 +12,5 @@ https://github.com/IgorIgnjatovic0/Add_to_cart.git
 #3 Project: Drums <br>
 https://github.com/IgorIgnjatovic0/Drums.git
 <br><br>
-#4 Project: Image_slider, Menu_open-close, Popoup_modal, Portfolio_filter
+#4 Project: Image_slider, Menu_open-close, Popoup_modal, Portfolio_filter<br>
 https://github.com/IgorIgnjatovic0/Slider_menu_popup_filter.git
