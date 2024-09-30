@@ -5,3 +5,5 @@ Best regards!
 
 #1 Project Inflation-Calculator
 https://github.com/IgorIgnjatovic0/Inflation-Calculator.git
+<br><br>
+#1 Project Add-to-cart
