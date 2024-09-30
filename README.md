@@ -1,2 +1,2 @@
 # Javascript-Projects
-You can check out my projects, which I update over time. Best regards!
+As I progress with my knowledge of JavaScript, I will be posting projects here for each level. Best regards!
