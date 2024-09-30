@@ -4,4 +4,4 @@ Everything you will see is written by me, based on the project I am going throug
 Best regards!
 
 #1 Project Inflation-Calculator
-https://github.com/IgorIgnjatovic0/Inflation-Calculator
+https://github.com/IgorIgnjatovic0/Inflation-Calculator.git
