@@ -3,7 +3,8 @@ As I progress with my knowledge of JavaScript, I will be posting projects here f
 Everything you will see is written by me, based on the project I am going through. <br>
 Best regards!
 
-#1 Project Inflation_Calculator
+#1 Project Inflation_Calculator<br>
 https://github.com/IgorIgnjatovic0/Inflation-Calculator.git
 <br><br>
-#1 Project Add_to_cart
+#2 Project Add_to_cart<br>
+https://github.com/IgorIgnjatovic0/Add_to_cart.git
