@@ -3,6 +3,9 @@ As I progress with my knowledge of JavaScript, I will be posting projects here f
 Everything you will see is written by me, based on the project I am going through. <br>
 Best regards!
 
+#6 Project: Form_validation <br>
+https://github.com/IgorIgnjatovic0/Form_validation.git
+<br><br>
 #5 Project: Border-line_animation, Images_animation, Text_animation <br>
 https://github.com/IgorIgnjatovic0/Animations_image-text-lines.git
 <br><br>
